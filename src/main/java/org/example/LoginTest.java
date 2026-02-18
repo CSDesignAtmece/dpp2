@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+package org.example;
+>>>>>>> 462eb8cf837ac090b011c27135e997a05bbe25be
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
